@@ -8,7 +8,6 @@ header {
 form {
   width: 100%;
   display: flex;
-  justify-content: space-between;
 }
 
 input[type="text"] {
